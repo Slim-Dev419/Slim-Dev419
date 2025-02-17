@@ -1,0 +1,42 @@
+[22:34:06] alt:V Server 16.3.14 (release)
+[22:34:06] Starting alt:V Server on [::]:7788
+[22:34:06] Creating and archiving resources
+[22:34:06] Making resource chat
+[22:34:06] The resource chat is made
+[22:34:06] Making resource freeroam
+[22:34:06] The resource freeroam is made
+[22:34:06] Creation and archiving resources completed
+[22:34:06] Starting resources
+[22:34:06] Loading resource chat
+[22:34:06] Loaded resource chat
+[22:34:06] Loading resource freeroam
+[22:34:06][Warning] Resource chat is already started
+[22:34:07][Warning][js] Trying to import resource 'chat' without 'alt:' prefix, this is deprecated behaviour.
+[22:34:07][Warning][js] Import 'alt:chat' instead to silence this warning.
+[22:34:07] Loaded resource freeroam
+[22:34:07] Start of resources is completed
+[22:34:07] Required server permissions:
+[22:34:07] Optional server permissions:
+[22:34:07] Starting HTTP server on [::]:7788
+[22:34:07] Main thread started (ThreadId: 9964)
+[22:34:07] EntityStreamer thread started (ThreadId: 10856)
+[22:34:07] SyncSend thread started (ThreadId: 5740)
+[22:34:07] SyncSend thread started (ThreadId: 7364)
+[22:34:07] SyncSend thread started (ThreadId: 10168)
+[22:34:07] SyncSend thread started (ThreadId: 4400)
+[22:34:07] SyncSend thread started (ThreadId: 13864)
+[22:34:07] SyncSend thread started (ThreadId: 4828)
+[22:34:07] SyncSend thread started (ThreadId: 2004)
+[22:34:07] SyncSend thread started (ThreadId: 3628)
+[22:34:07] SyncReceive thread started (ThreadId: 4188)
+[22:34:07] SyncReceive thread started (ThreadId: 5980)
+[22:34:07] SyncReceive thread started (ThreadId: 4692)
+[22:34:07] SyncReceive thread started (ThreadId: 2464)
+[22:34:07] NetworkWorker #1 thread started (ThreadId: 1148)
+[22:34:07] Console thread started (ThreadId: 12520)
+[22:34:07] Server started
+[22:34:17] Stopping resource chat
+[22:34:17] Stopping resource freeroam
+[22:34:17] Stopped resource freeroam
+[22:34:17] Stopped resource chat
+[22:34:18] Server shutdown
